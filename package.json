@@ -1,22 +1,10 @@
 {
-  "name": "com.google.ads.mobile",
-  "version": "9.2.1",
-  "displayName": "Google Mobile Ads for Unity",
-  "keywords": [
-    "Google",
-    "Mobile",
-    "Ads",
-    "vh-name:GoogleMobileAds",
-    "vh-name:Google Mobile Ads for Unity"
-  ],
+  "name": "com.google.android.appbundle",
+  "displayName": "Google Android App Bundle",
+  "description": "The Google Android App Bundle package provides access to the latest Android App Bundles features, such as Play Asset Delivery.",
+  "version": "1.9.0",
+  "unity": "2017.4",
   "author": {
-    "name": "Google LLC",
-    "url": "https://github.com/googleads/googleads-mobile-unity"
-  },
-  "description": "The Google Mobile Ads package allows you to easily monetize your Unity apps for iOS and Android using Google's native iOS and Android Mobile SDKs via a unified C# API in Unity.",
-  "unity": "2019.4",
-  "dependencies": {
-    "com.google.external-dependency-manager": "https://github.com/Cosmic-Pulse/com.google.external-dependency-manager.git",
-    "com.unity.modules.androidjni": "1.0.0"
+    "name": "Google LLC"
   }
 }
